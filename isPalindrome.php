@@ -28,6 +28,8 @@
             else
                 echo "$num is not a palindrome";
             echo '</form>';
+        
+            echo "Request to pull";
         ?>
     </body>
 
